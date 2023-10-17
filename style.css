@@ -80,13 +80,13 @@ section .imageContainer {
 
 .content-display {
     padding-top: 80px;
-    padding-left: 50px;
+    padding-left: 200px;
     display: block;
     display: flex;
     justify-content: space-around;
     align-items: center;
     overflow-x: scroll;
-    width: 94%;
+    width: 81%;
 }
 
 .content div {
